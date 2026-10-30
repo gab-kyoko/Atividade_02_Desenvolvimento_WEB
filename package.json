@@ -1,0 +1,8 @@
+{
+  "name": "roteiros-de-estudo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "next dev", "clean": "node -e \"require('fs').rmSync('work/.next-cache',{recursive:true,force:true})\"", "prebuild": "npm run clean", "build": "next build --webpack", "start": "npx serve out" },
+  "dependencies": { "next": "16.1.0", "react": "19.2.3", "react-dom": "19.2.3" },
+  "devDependencies": { "serve": "14.2.5" }
+}
