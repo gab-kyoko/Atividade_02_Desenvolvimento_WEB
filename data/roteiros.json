@@ -1,0 +1,22 @@
+[
+  {
+    "id": "fracoes-equivalentes",
+    "disciplinaId": "matematica",
+    "professorId": "p1",
+    "ano": 6,
+    "titulo": "Frações equivalentes",
+    "tema": "Frações",
+    "tempo": 25,
+    "buscaWikipedia": "Fração_(matemática)",
+    "resumo": "Descubra como...",
+    "conteudo": "Uma fração mostra...",
+    "questoes": [
+    {
+        "id": "q1",
+        "pergunta": "Qual fração é equivalente a 1/2?",
+        "opcoes": ["2/4", "2/3", "3/4"],
+        "resposta": "2/4"
+      }
+    ]
+  }
+]
