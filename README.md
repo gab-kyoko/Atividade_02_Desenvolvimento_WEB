@@ -1,4 +1,5 @@
-# Atividade 2 — Projeto Next.js & Mapeamento Socioeconômico
+# Atividade 2 — Trilha do Saber
+
 
 Este repositório contém os componentes da **Atividade 2**, composta pela aplicação web desenvolvida em Next.js e pela documentação/pesquisa de indicadores municipais registrada no caderno de acompanhamento.
 
@@ -39,6 +40,7 @@ Atividade_2/
 
 ```bash
 npm install
+```
 
 2. Inicie o servidor de desenvolvimento:
 
