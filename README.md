@@ -30,15 +30,15 @@ Atividade_2/
 │   └── page.js
 └── Caderno_2026_2.pdf
 
+```
 **Observação:** o login do professor e o registro de pedidos são demonstrativos e funcionam apenas no navegador. O projeto não possui back-end nem banco de dados.
 
-Como executar o projeto
+##Como executar o projeto
 
 1. Instale as dependências:
 
 ```bash
 npm install
-```
 
 2. Inicie o servidor de desenvolvimento:
 
